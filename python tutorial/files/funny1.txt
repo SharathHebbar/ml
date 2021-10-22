@@ -1,0 +1,6 @@
+word count: 3 I love python
+word count: 4 I also love C++
+word count: 4 I love Machine Learning
+word count: 3 Code in python
+word count: 1 Monochrome
+word count: 1 Color
